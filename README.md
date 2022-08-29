@@ -1,5 +1,6 @@
-### Hi there 👋 [My website](https://blingdan.github.io/)
-
+#### - 👋Hi there 
+#### - 💻This is [My Website](https://blingdan.github.io/)
+#### - 📫You can reach me <zacry74747@gmail.com>
 <!--
 **BlingDan/BlingDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
