@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 83 Contributions in the Year 2022
+> 🏆 101 Contributions in the Year 2022
  > 
 > 📦 48.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I Mostly Code in Java** 
 
@@ -54,7 +54,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BlingDan/BlingDan/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 05:44:06 UTC
+ Last Updated on 20/09/2022 14:39:21 UTC
 <!--END_SECTION:waka-->
 
 
