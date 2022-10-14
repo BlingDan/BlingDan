@@ -62,10 +62,14 @@ Sunday       21 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 hrs 25 mins       █████████████████████████   99.72% 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    3 hrs 20 mins       ████████████████████████░   97.32% 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
 
 ```
 
@@ -86,7 +90,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BlingDan/BlingDan/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 19:02:04 UTC
+ Last Updated on 14/10/2022 18:57:37 UTC
 <!--END_SECTION:waka-->
 
 
