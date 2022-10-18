@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > 🏆 107 Contributions in the Year 2022
  > 
-> 📦 48.7 kB Used in GitHub's Storage 
+> 📦 48.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/BlingDan/BlingDan/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 19:11:49 UTC
+ Last Updated on 18/10/2022 19:05:24 UTC
 <!--END_SECTION:waka-->
 
 
